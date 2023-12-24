@@ -1,0 +1,4 @@
+Produto A - 152
+Produto B - 124
+Produto C - 85
+Produto D - 146
